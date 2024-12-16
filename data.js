@@ -24,14 +24,14 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.14709838133876119,
-        "pitch": 0.1363446506184225,
-        "fov": 1.2733156773635639
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -0.7055384745121405,
-          "pitch": 0.2736308099212881,
+          "yaw": -0.76821807274289,
+          "pitch": 0.21175705720229843,
           "rotation": 4.71238898038469,
           "target": "1-wet-area"
         }
@@ -62,22 +62,22 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.04630465362434677,
-        "pitch": -0.10151244797113002,
-        "fov": 1.2733156773635639
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -0.80935483519416,
-          "pitch": 0.24279669791706127,
-          "rotation": 4.71238898038469,
+          "yaw": -0.817049360204738,
+          "pitch": 0.2512309465385094,
+          "rotation": 3.9269908169872414,
           "target": "0-dry-area"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "Dr. Nidhin's Toilet Re-design",
+  "name": "Dr.Nidhin's Toilet Design",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
